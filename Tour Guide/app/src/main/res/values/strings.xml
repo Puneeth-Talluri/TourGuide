@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="cannot_determine_location">Cannot determine location</string>
+    <string name="Show_Addresses">Show Addresses</string>
+    <string name="Show_Travel_Path">Show Travel Path</string>
+    <string name="Show_Geofences">Show Geofences</string>
+    <string name="Show_Tour_Path">Show Tour Path</string>
+    <string name="Location_not_available">Location is not currently available</string>
+</resources>
