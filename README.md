@@ -4,7 +4,8 @@ This Android Application is designed for Users to explore Major Tourist Attracti
 The App has built in Real-Time Navigation showing the entire tour path along with the travelled path. 
 
 # MainActivity Behaviour 
-![CSC_392_492_Assignment_3 (1)_page-0003](https://github.com/Puneeth-Talluri/TourGuide/assets/157065289/bc58fb00-a065-44ec-977f-b339947c86a9)
+![CSC_392_492_Assignment_3 (1)_page-0004](https://github.com/Puneeth-Talluri/TourGuide/assets/157065289/4716c56d-ea2c-4e93-b2b4-dd8e2199459f)
+
 
 # Building Activity 
 This is the Activity responsible to show Description of the arrived Locations.
